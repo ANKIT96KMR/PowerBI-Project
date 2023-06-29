@@ -1,2 +1,2 @@
-# PowerBI-Project
-this repository contains power bi project 
+# PowerBI-Projects
+This Repository Contains PowerBi end to end project.
